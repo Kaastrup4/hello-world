@@ -1,3 +1,3 @@
 # hello-world
-This is my first repository. - I want to kill myself
+This is my first repository. - I am okay
 I am looking forward to learning more.
